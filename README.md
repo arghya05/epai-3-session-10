@@ -76,4 +76,3 @@ In this assignment we had to develop 2 modules i.e. polygon and polygon sequence
 Test cases have been developed in the notebook to check the `Objective 1` and `Objective 2`. There are two sections in the notebook, first section tests `objective 1` over `properties`, `__repr__`,`__eq__` & `__gt__` function. The second section contains the test cases for `objective 2` over `properties`,`__repr__`, `__len__` & `__getitem__`.
 
 ---
-<h3 align = "center"> Made with ❤ & 🍻 by KillerStrike</h3>
